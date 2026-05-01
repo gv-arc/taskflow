@@ -1,25 +1,25 @@
-# 🚀 TaskFlow API – Task Management System (Spring Boot)
+#  TaskFlow API – Task Management System (Spring Boot)
 
 A **RESTful backend application** built using **Spring Boot** for managing tasks with features like **CRUD operations**, **filtering**, **validation**, and **global exception handling**.  
 This project demonstrates strong understanding of **Java backend development**, **REST API design**, and **database integration** using **Spring Data JPA and Hibernate**.
 
 ---
 
-## 🧩 Key Features
+##  Key Features
 
-* ✔ RESTful API development using Spring Boot
-* ✔ Full CRUD operations (Create, Read, Update, Delete)
-* ✔ Filter tasks by status (**PENDING, IN_PROGRESS, COMPLETED**)
-* ✔ Input validation using **Jakarta Validation (`@NotBlank`)**
-* ✔ Global exception handling using `@RestControllerAdvice`
-* ✔ Layered architecture (**Controller → Service → Repository**)
-* ✔ Database integration with **Spring Data JPA & Hibernate**
-* ✔ Interactive API documentation using **Swagger (OpenAPI)**
-* ✔ API testing using **Postman Collection**
+*  RESTful API development using Spring Boot
+*  Full CRUD operations (Create, Read, Update, Delete)
+*  Filter tasks by status (**PENDING, IN_PROGRESS, COMPLETED**)
+*   Input validation using **Jakarta Validation (`@NotBlank`)**
+*  Global exception handling using `@RestControllerAdvice`
+*  Layered architecture (**Controller → Service → Repository**)
+*  Database integration with **Spring Data JPA & Hibernate**
+*  Interactive API documentation using **Swagger (OpenAPI)**
+*  API testing using **Postman Collection**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category   | Technology                  |
 | ---------- | --------------------------- |
@@ -33,7 +33,7 @@ This project demonstrates strong understanding of **Java backend development**, 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 🔹 Prerequisites
 
@@ -71,7 +71,7 @@ mvn spring-boot:run
 
 ---
 
-## 🌐 API Base URL
+##  API Base URL
 
 ```
 http://localhost:8080/todos
@@ -79,7 +79,7 @@ http://localhost:8080/todos
 
 ---
 
-## 📘 API Documentation
+##  API Documentation
 
 🔗 Swagger UI:
 http://localhost:8080/swagger-ui/index.html
@@ -90,7 +90,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ---
 
-## 📬 Postman Collection
+##  Postman Collection
 
 Import the collection from:
 
@@ -100,7 +100,7 @@ postman/TaskFlow-API.postman_collection.json
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint               | Description            |
 | ------ | ---------------------- | ---------------------- |
@@ -113,7 +113,7 @@ postman/TaskFlow-API.postman_collection.json
 
 ---
 
-## 🧪 Sample Request
+##  Sample Request
 
 ```json
 {
@@ -126,7 +126,7 @@ postman/TaskFlow-API.postman_collection.json
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Gaurav Singh**
 Java Backend Developer | Pune, Maharashtra
@@ -136,7 +136,7 @@ Java Backend Developer | Pune, Maharashtra
 
 ---
 
-## 🎯 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - Java (Core Java, OOPs, Collections)
 - Spring Boot (RESTful Web Services)
